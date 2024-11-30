@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "Изучить основы FastAPI",
+    "description": "Пройти документацию по FastAPI и создать простой проект",
+    "category": "Обучение",
+    "deadline": "2024-11-15",
+    "priority": "Высокий",
+    "status": "Выполнена"
+  },
+  {
+    "id": 2,
+    "title": "Изучить основы Django",
+    "description": "Пройти документацию по Django и создать простой проект",
+    "category": "Обучение",
+    "deadline": "2024-12-15",
+    "priority": "Средний",
+    "status": "Выполнена"
+  },
+  {
+    "id": 4,
+    "title": "Просмотр фильма с женой",
+    "description": "Посмотреть Джокер 2 с женой",
+    "category": "Личное",
+    "deadline": "2024-12-01",
+    "priority": "Низкий",
+    "status": "Не выполнена"
+  },
+  {
+    "id": 5,
+    "title": "Выполнение тестового задания",
+    "description": "Написать менеджер задач",
+    "category": "Работа",
+    "deadline": "2024-11-30",
+    "priority": "Высокий",
+    "status": "Выполнена"
+  },
+  {
+    "id": 7,
+    "title": "Title",
+    "description": "Desc",
+    "category": "Cat",
+    "deadline": "2024-12-12",
+    "priority": "Средний",
+    "status": "Не выполнена"
+  },
+  {
+    "id": 8,
+    "title": "Buy groceries",
+    "description": "Buy milk, eggs, and bread",
+    "category": "Shopping",
+    "deadline": "2025-12-05",
+    "priority": "Высокий",
+    "status": "Не выполнена"
+  }
+]
