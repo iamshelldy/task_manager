@@ -60,7 +60,6 @@ python -m main delete --category "Shopping"
 task_manager/
 ├── tasks/
 │   ├── __init__.py        # Task class implementation
-│   ├── exceptions.py      # Custom exceptions for Task
 │   ├── manager.py         # TaskManager class implementation
 │   ├── utils.py           # Helper functions for loading/dumping data
 ├── main.py                # Entry point for the application
